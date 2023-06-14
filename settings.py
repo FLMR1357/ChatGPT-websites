@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # SECRET_KEY（flask项目密钥,不用管,也用不到）
-pip3 install gunicorn
 SECRET_KEY = "asghnjadfbtywyn"
 
 # openAi api key
